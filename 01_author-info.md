@@ -1,11 +1,11 @@
 #### Supervisor: Dr. Kenji Matsuno
 
-Department of Biological Science, Osaka University,  
+Department of Biological Sciences, Osaka University,  
 1-1 Machikaneyama-cho, Toyonaka, Osaka 560-0043, Japan
 
 #### Committee Member 1: Dr. Hiroki Nishida
 
-Department of Biological Science, Osaka University,  
+Department of Biological Sciences, Osaka University,  
 1-1 Machikaneyama-cho, Toyonaka, Osaka 560-0043, Japan
 
 #### Committee Member 2: Dr. Hiroshi Sasaki
@@ -15,7 +15,7 @@ Graduate School of Frontier Biosciences, Osaka University,
 
 #### Author: Tomoki Ishibashi
 
-Department of Biological Science, Osaka University,  
+Department of Biological Sciences, Osaka University,  
 1-1 Machikaneyama-cho, Toyonaka, Osaka 560-0043, Japan
 
 \clearpage
